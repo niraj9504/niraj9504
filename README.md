@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Data Structures,Algorithms,React.js,Problem Solving**
+- 🔭 I’m currently working on **Data Structures,Algorithms,React.js,Linux,shell scripting,git,Problem Solving**
 
-- 🌱 I’m currently learning **React.js, Node.js, Java , Spanish(Language)**
+- 🌱 I’m currently learning **React.js, Node.js **
 
 - 📝 I regularly write articles on [https://leetcode.com/niraj_1/](https://leetcode.com/niraj_1/)
 
